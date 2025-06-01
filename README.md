@@ -60,7 +60,7 @@ cp .env.example .env.local
 
 ```env
 # OpenRouter API 配置
-OPENROUTER_API_KEY=your_openrouter_api_key_here
+OPENROUTER_API_KEY=你的_openrouter_api_key
 ```
 
 ### 4. 启动开发服务器

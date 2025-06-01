@@ -1,4 +1,6 @@
 @echo off
+cd /d F:\AIship\code\communication-assistant
+
 echo 🔄 清除嵌套 Git 仓库: communication-assistant/.git
 rmdir /s /q communication-assistant\.git
 
